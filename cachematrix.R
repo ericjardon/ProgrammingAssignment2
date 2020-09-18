@@ -1,3 +1,4 @@
+## Author: Eric Andres Jardon Chao
 ## makeCacheMatrix is a function that creates a special matrix with get and set methods.
 ## solveCache is a function similar to the built-in solve() function but saves unnecessary computation.
 
